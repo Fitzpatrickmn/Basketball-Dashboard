@@ -5,6 +5,6 @@ I then used HTML/CSS, Javascript, D3, Leaflet, and Plotly to create dynamic and 
 
 Out of the requirements I omitted using flask. For this to fully work, please use your own API KEY, as I've placed my config.js in a git ignore. 
 
-![Image1](/Images/Image1.png)
+![Image1](/Images/Image.png)
 ![Image2](/Images/Image2.png)
 ![Image3](/Images/Image3.png) 
