@@ -7,4 +7,4 @@ Out of the requirements I omitted using flask. For this to fully work, please us
 
 ![Image1](/Images/Image1.png)
 ![Image2](/Images/Image2.png)
-![Image3](/Images/Image3.png)
+![Image3](/Images/Image3.png) 
